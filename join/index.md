@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Join
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 5
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
