@@ -2,7 +2,7 @@
 name: Danielle Dowe
 image: images/headshots/dowe.png
 description:
-role: grad-student
+role: phd
 aliases:
   - D. Dowe
   - D Dowe

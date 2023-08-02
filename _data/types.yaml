@@ -18,11 +18,11 @@ undergrad:
   icon: fa-solid fa-user-flask
   description: Undergraduate Student
 
-programmer:
+hs:
   icon: fa-solid fa-seedling
   description: High School Student
 
-mascot:
+technician:
   icon: fa-solid fa-screwdriver-wrench
   description: Research Technician
 

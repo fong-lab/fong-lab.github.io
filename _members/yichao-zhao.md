@@ -2,7 +2,7 @@
 name: Yichao Zhao
 image: images/headshots/zhao.png
 description:
-role: grad-student
+role: phd
 aliases:
   - Y. Zhao
   - Y Zhao

@@ -2,7 +2,7 @@
 name: Ta'Kayla Wright
 image: images/headshots/wright.png
 description: 
-role: alum
+role: undergrad
 aliases:
   - T. Wright
   - T Wright
