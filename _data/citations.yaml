@@ -181,7 +181,22 @@
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.03.08.531789
+- id: doi:10.3389/fnins.2023.1167007
+  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
+    for amblyopia in cats
+  authors:
+  - Mairin Hogan
+  - Nadia R. DiCostanzo
+  - Nathan A. Crowder
+  - Ming-fai Fong
+  - Kevin R. Duffy
+  publisher: Frontiers in Neuroscience
+  date: '2023-06-20'
+  link: https://doi.org/gsjtrm
+  image: ../images/publications/hogan2023-fnins_thumbnail
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.87753.1
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
     than transmitter receptor activation
   authors:
@@ -192,9 +207,9 @@
   - Nicholas Au Yong
   - Kathrin Engisch
   - Peter Wenner
-  publisher: bioRxiv
-  date: '2023-03-09'
-  link: https://doi.org/grxhw8
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-06-22'
+  link: https://doi.org/gsjtrn
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
   plugin: sources.py
   file: sources.yaml
@@ -219,7 +234,7 @@
   publisher: bioRxiv
   date: '2022-02-05'
   link: https://doi.org/gq6mfx
-  image: ../images/publications/kimchi2021-biorxiv_thumbnail.png
+  image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1523/JNEUROSCI.1393-19.2020
