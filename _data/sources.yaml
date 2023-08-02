@@ -10,52 +10,30 @@
 
 - id: doi:10.7554/eLife.70023
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
-  date: '2021-08-31'
-  publisher: eLife
-
 
 - id: doi:10.1523/JNEUROSCI.1393-19.2020 
   image: ../images/publications/hanes2020-jneuro_thumbnail.png
 
-
 - id: doi:10.1093/cercor/bhz260
   image: ../images/publications/fong2020-cerebctx_thumbnail.png
-  authors:
-  - Ming-fai Fong
-  - Peter S.B. Finnie
-  - Taekeun Kim
-  - Aurore Thomazeau
-  - Eitan S. Kaplan
-  - Samuel F. Cooke
-  - Mark F. Bear
-
 
 - id: doi:10.1002/cne.24336
   image: ../images/publications/duffy2018-jcn_thumbnail.png
 
-
 - id: doi:10.1073/pnas.1613279113
   image: ../images/publications/fong2016-pnas_thumbnail.png
-
 
 - id: doi:10.7554/eLife.07192
   image: ../images/publications/newman2015-elife_thumbnail.png
 
-
 - id: doi:10.1038/ncomms7339
   image: ../images/publications/fong2015-natcomm_thumbnail.png
 
-
 - id: doi:10.3389/fncir.2013.00184
   image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
-  date: '2013-12-06'
 
 - id: doi:10.3389/fncir.2012.00098
   image: ../images/publications/newman2013-fncir_thumbnail.png
-  date: '2013-01-18'
-
 
 - id: doi:10.1109/ROBOT.2004.1302452
   image: ../images/publications/tedrake2004-icra_thumbnail.png
-  publisher: IEEE International Conference on Robotics and Automation
-

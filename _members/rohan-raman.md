@@ -9,11 +9,7 @@ aliases:
   - Rohan Raman
 links:
   email: rvraman@gatech.edu
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
-  linkedin: 
+  linkedin: rohan-raman-5707b2178
 ---
 
 Rohan Raman is a second-year neuroscience major at Georgia Tech, also minoring  in computing and intelligence. Previously a part of the University of Washington’s 

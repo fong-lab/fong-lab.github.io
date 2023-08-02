@@ -9,10 +9,6 @@ aliases:
   - Ta'Kayla Wright
 links:
   email: twright79@gatech.edu
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
   linkedin: ta’kayla-wright-b06324219
 ---
 

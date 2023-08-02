@@ -13,7 +13,6 @@ links:
   email: ming-fai.fong@bme.gatech.edu
   orcid: 0000-0002-2336-4531
   google-scholar: xlVG6IUAAAAJ
-  github: 
   twitter: mingfaifong
   linkedin: mingfaifong
 ---
