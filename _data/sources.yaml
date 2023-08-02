@@ -1,9 +1,9 @@
-- id: doi:10.3389/fnins.2023.1167007
-  image: ../images/publications/hogan2023-fnins_thumbnail.png
-
 - id: doi:10.7554/eLife.87753.1
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
   
+  - id: doi:10.3389/fnins.2023.1167007
+  image: ../images/publications/hogan2023-fnins_thumbnail.png
+
 - id: doi:10.1101/2022.02.04.479188
   image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
   publisher: bioRxiv
