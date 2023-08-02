@@ -15,7 +15,7 @@ technician:
   description: Research Technician
 
 postdoc:
-  icon: fa-solid fa-brain
+  icon: fa-solid fa-person-dots-from-line
   description: Postdoctoral Researcher
 
 phd:
