@@ -16,3 +16,4 @@ Nahreen is a rising senior at Cristo Rey Atlanta Jesuit High School and a studen
 
 
 Last updated: 2023
+Role in lab: Next Gen High School Intern, Summer 2023

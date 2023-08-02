@@ -17,3 +17,4 @@ Anuradha Ramdin is an undergraduate student at University of Miami (UM) studying
 
 
 Last updated: 2023
+Role in lab: Undergraduate SURE Scholar, Summer 2023
