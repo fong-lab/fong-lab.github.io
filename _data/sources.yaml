@@ -1,9 +1,11 @@
-- id: doi:10.1101/2023.03.08.531789
-  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
-  publisher: bioRxiv
+- id: doi:10.3389/fnins.2023.1167007
+  image: ../images/publications/hogan2023-fnins_thumbnail
 
+- id: doi:10.7554/eLife.87753.1
+  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  
 - id: doi:10.1101/2022.02.04.479188
-  image: ../images/publications/kimchi2021-biorxiv_thumbnail.png
+  image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
   publisher: bioRxiv
 
 - id: doi:10.7554/eLife.70023
