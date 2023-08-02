@@ -5,7 +5,7 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-file-signature" %}Research
+# {% include icon.html icon="fa-solid fa-file-signature" %}Publications
 
 {% include section.html %}
 

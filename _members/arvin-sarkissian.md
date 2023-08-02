@@ -2,7 +2,7 @@
 name: Arvin Sarkissian
 image: images/headshots/sarkissian.png
 description:
-role: phd
+role: alum
 aliases:
   - A. Sarkissian
   - A Sarkissian

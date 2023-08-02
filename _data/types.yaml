@@ -6,8 +6,16 @@ pi:
   icon: fa-solid fa-person-chalkboard
   description: Principal Investigator
 
-postdoc:
+manager:
   icon: fa-solid fa-wand-magic-sparkles
+  description: Lab Manager
+
+technician:
+  icon: fa-solid fa-screwdriver-wrench
+  description: Research Technician
+
+postdoc:
+  icon: fa-solid fa-brain
   description: Postdoctoral Researcher
 
 phd:
@@ -15,16 +23,16 @@ phd:
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-flask
+  icon: fa-solid fa-flask
   description: Undergraduate Student
 
 hs:
   icon: fa-solid fa-seedling
   description: High School Student
 
-technician:
-  icon: fa-solid fa-screwdriver-wrench
-  description: Research Technician
+alum:
+  icon: fa-solid fa-hand-spock
+  description: Alum
 
 # general
 

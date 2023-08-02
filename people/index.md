@@ -15,9 +15,9 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="role: manager" %}
 {% include list.html  data="members"  component="portrait"  filters="role: technician" %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc" %}
-{% include list.html  data="members"  component="portrait"  filters="role: grad-student" %}
+{% include list.html  data="members"  component="portrait"  filters="role: phd" %}
 {%  include list.html  data="members"  component="portrait"  filters="role: undergrad" %}
-{%  include list.html  data="members"  component="portrait"  filters="role: hs-student" %}
+{%  include list.html  data="members"  component="portrait"  filters="role: hs" %}
 
 
 {% include section.html %}
