@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: fong-lab
+title: Fong Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: 
 header: images/pipets.jpg
 footer: images/pipets.jpg
 
 # site social media and other links
 links:
-  email: contact@fong-lab.com
+  email: ming-fai.fong@bme.gatech.edu
   orcid: 0000-0002-2336-4531
   google-scholar: xlVG6IUAAAAJ
-  twitter: fong-lab
+  twitter: mingfaifong
 
 ### jekyll settings
 
