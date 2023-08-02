@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: Fong Lab
+title: fong-lab
 subtitle: 
-description: Neural plasticity research at Georgia Tech and Emory
+description: An engaging 1-3 sentence description of your lab.
 header: images/pipets.jpg
 footer: images/pipets.jpg
 
 # site social media and other links
 links:
-  email: ming-fai.fong@bme.gatech.edu
+  email: contact@fong-lab.com
   orcid: 0000-0002-2336-4531
   google-scholar: xlVG6IUAAAAJ
-  twitter: mingfaifong
+  twitter: fong-lab
 
 ### jekyll settings
 
