@@ -2,7 +2,7 @@
 name: Anuradha Ramdin
 image: images/headshots/ramdin.png
 description: 
-role: alum
+role: alum-undergrad
 aliases:
   - A. Ramdin
   - A Ramdin

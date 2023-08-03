@@ -7,7 +7,7 @@ pi:
   description: Principal Investigator
 
 manager:
-  icon: fa-solid fa-wand-magic-sparkles
+  icon: fa-solid fa-hand-sparkles
   description: Lab Manager
 
 technician:
@@ -19,20 +19,58 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+ms:
+  icon: fa-solid fa-building-columns
+  description: MS Student
+
+rotation:
+  icon: fa-solid fa-arrows-spin
+  description: Rotation Student
+
 undergrad:
-  icon: fa-solid fa-flask
+  icon: fa-solid fa-school
   description: Undergraduate Student
 
 hs:
   icon: fa-solid fa-seedling
   description: High School Student
 
-alum:
+# alumni roles
+alum-manager:
   icon: fa-solid fa-hand-spock
-  description: Alum
+  description: Former Lab Manager
+
+alum-technician:
+  icon: fa-solid fa-hand-spock
+  description: Former Research Technician
+
+alum-postdoc:
+  icon: fa-solid fa-hand-spock
+  description: Former Postdoctoral Researcher
+
+alum-phd:
+  icon: fa-solid fa-hand-spock
+  description: Former PhD Student
+
+alum-ms:
+  icon: fa-solid fa-hand-spock
+  description: Former MS Student
+
+alum-rotation:
+  icon: fa-solid fa-hand-spock
+  description: Former Rotation Student
+
+alum-undergrad:
+  icon: fa-solid fa-hand-spock
+  description: Former Undergraduate Student
+
+alum-hs:
+  icon: fa-solid fa-hand-spock
+  description: Fomer High School Student
+
 
 # general
 

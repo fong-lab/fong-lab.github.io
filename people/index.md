@@ -5,7 +5,7 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}People
+# {% include icon.html icon="fa-solid fa-people-group" %}People
 
 {% include section.html %}
 
@@ -16,13 +16,13 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="role: technician" %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc" %}
 {% include list.html  data="members"  component="portrait"  filters="role: phd" %}
-{%  include list.html  data="members"  component="portrait"  filters="role: undergrad" %}
-{%  include list.html  data="members"  component="portrait"  filters="role: hs" %}
+{% include list.html  data="members"  component="portrait"  filters="role: undergrad" %}
+{% include list.html  data="members"  component="portrait"  filters="role: hs" %}
 
 
 {% include section.html %}
 
 ## Alumni
 
-{%  include list.html  data="members"  component="portrait"  filters="role: alum" %}
+{% include list.html  data="members"  component="portrait"  filters="role: alum*" %}
 
