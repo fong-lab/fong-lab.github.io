@@ -6,35 +6,35 @@ pi:
   icon: fa-solid fa-person-chalkboard
   description: Principal Investigator
 
-manager:
+current-manager:
   icon: fa-solid fa-hand-sparkles
   description: Lab Manager
 
-technician:
+current-technician:
   icon: fa-solid fa-screwdriver-wrench
   description: Research Technician
 
-postdoc:
+current-postdoc:
   icon: fa-solid fa-person-dots-from-line
   description: Postdoctoral Researcher
 
-phd:
+current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-ms:
+current-ms:
   icon: fa-solid fa-building-columns
   description: MS Student
 
-rotation:
+current-rotation:
   icon: fa-solid fa-arrows-spin
   description: Rotation Student
 
-undergrad:
+current-undergrad:
   icon: fa-solid fa-school
   description: Undergraduate Student
 
-hs:
+current-hs:
   icon: fa-solid fa-seedling
   description: High School Student
 

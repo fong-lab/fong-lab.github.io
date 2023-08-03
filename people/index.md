@@ -12,17 +12,17 @@ nav:
 ## Current Members
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi" %}
-{% include list.html  data="members"  component="portrait"  filters="role: manager" %}
-{% include list.html  data="members"  component="portrait"  filters="role: technician" %}
-{% include list.html  data="members"  component="portrait"  filters="role: postdoc" %}
-{% include list.html  data="members"  component="portrait"  filters="role: phd" %}
-{% include list.html  data="members"  component="portrait"  filters="role: undergrad" %}
-{% include list.html  data="members"  component="portrait"  filters="role: hs" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-manager" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-technician" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-postdoc" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-phd" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-undergrad" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-hs" %}
 
 
 {% include section.html %}
 
 ## Alumni
 
-{% include list.html  data="members"  component="portrait"  filters="role: alum*" %}
+{% include list.html  data="members"  component="portrait"  filters="role: alum" %}
 
