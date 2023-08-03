@@ -2,7 +2,7 @@
 name: Robert Lamprecht
 image: images/headshots/lamprecht.png
 description: 
-role: technician
+role: current-technician
 aliases:
   - R. Lamprecht
   - R. D. Lamprecht

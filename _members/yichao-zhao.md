@@ -2,7 +2,7 @@
 name: Yichao Zhao
 image: images/headshots/zhao.png
 description:
-role: phd
+role: current-phd
 aliases:
   - Y. Zhao
   - Y Zhao

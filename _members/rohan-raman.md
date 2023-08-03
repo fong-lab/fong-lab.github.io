@@ -2,7 +2,7 @@
 name: Rohan Raman
 image: images/headshots/raman.png
 description: 
-role: undergrad
+role: current-undergrad
 aliases:
   - R. Raman
   - R Raman

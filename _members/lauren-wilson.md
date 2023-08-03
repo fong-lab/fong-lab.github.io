@@ -2,7 +2,7 @@
 name: Lauren Wilson
 image: images/headshots/wilson.png
 description: 
-role: undergrad
+role: current-undergrad
 aliases:
   - L. Wilson
   - L Wilson
