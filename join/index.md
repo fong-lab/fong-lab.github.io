@@ -11,12 +11,15 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 {% include section.html %}
 
+# Open Positions
+
+We will be recruiting a Research Technician for a start date of May or June 2024.  If you are interested in applying this position, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+
 
 # Ongoing Opportunities
 
-
-### Staff Positions
-Technician positions open up every 1-2 years.  Currently we are not recruiting for staff positions, but if you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+<!--### Staff Positions
+Technician positions open up every 1-2 years.  If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).-->
 
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
@@ -29,7 +32,7 @@ We accept graduate students who have already been admitted to one of the followi
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
 [Emory MD-PhD Program](https://med.emory.edu/MDPHD/)
 
-If you are interested in our lab's work, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and interested in learning more about joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+**We cannot directly admit graduate students into our lab.** However, if you are interested in our research, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and want to learn specific details about ongoing projects or joining the lab for your PhD studies (or a research rotation), please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 Graduate students considering joining the Fong Lab (or any neuroscience/neuroengineering lab) are strongly encouraged to enroll in the following courses:
 - Georgia Tech BMED 7610 Quantitative Neuroscience (Fall only)
