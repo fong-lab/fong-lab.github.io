@@ -42,7 +42,7 @@ Graduate students considering joining the Fong Lab (or any neuroscience/neuroeng
 Please keep the registration deadlines and cross-registration deadlines in mind.
 
 ### Undergraduate students
-If you are interested in working in the lab, please fill out the [Undergraduate Research Interest Form](https://forms.office.com/r/QD7qYbh2Et).  We encourage you to do fill out this form, rather than to email us directly, to demonstrate that you have read through our website.  When positions become available, lab personnel will look through the form responses to identify candidates whose interests and goals align best with their research project.  Interviews are typically conducted 1-2 months prior to the start of the semester, with hiring occuring at the beginning of the semester.
+If you are interested in working in the lab, please fill out the [Undergraduate Research Interest Form](https://forms.office.com/r/QD7qYbh2Et).  We encourage you to fill out this form (rather than to email us directly) to demonstrate that you have read through our website and understand the expectations for undergraduate researchers in our lab.  When positions become available, lab personnel will look through the form responses to identify candidates whose interests and goals align best with their research projects.  At that time, they will reach out to candidates directly to request additional materials (e.g. resume) and schedule interviews.  This communication typically occurs 1-2 months prior to the start of the semester, with hiring occuring at the beginning of the semester.
 
 {% include section.html %}
 
