@@ -110,11 +110,11 @@
   file: sources.yaml
   image: ../images/publications/fong2020-cerebctx_thumbnail.png
 - id: doi:10.1002/cne.24336
-  title: Recovery from the anatomical effects of long-term monocular deprivation in
-    cat lateral geniculate nucleus
+  title: "Recovery from the anatomical effects of long\u2010term monocular deprivation\
+    \ in cat lateral geniculate nucleus"
   authors:
   - Kevin R. Duffy
-  - Ming-fai Fong
+  - "Ming\u2010fai Fong"
   - Donald E. Mitchell
   - Mark F. Bear
   publisher: Journal of Comparative Neurology
