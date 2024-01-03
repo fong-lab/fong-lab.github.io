@@ -2,7 +2,7 @@
 name: Cooper Allen
 image: images/headshots/allen.png
 description: 
-role: current-undergrad
+role: alum-undergrad
 aliases:
   - C. Allen
   - C Allen
