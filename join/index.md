@@ -13,7 +13,13 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 # Open Positions
 
-We will be recruiting a Research Technician for a start date of May or June 2024.  If you are interested in applying this position, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+The Fong Lab in the Department of Biomedical Engineering at Georgia Tech and Emory is hiring a research technician to help advance our studies on neural plasticity and visual rehabilitation in mice.  The technician will be responsible for conducting experimental and analytical work, as well as managing laboratory operations.  Research activities may include mouse handling, stereotaxic surgery, ocular manipulations, electrophysiology, optogenetics, computational analyses, euthanasia, and histology.  Operational work may include ordering supplies, managing mouse colonies, setting up equipment, maintaining websites, organizing data repositories, updating animal/safety protocols, coordinating outreach activities, and contributing to a positive and inclusive laboratory environment.  The technician will also participate in weekly lab meetings and individual meetings with the principal investigator.
+ 
+The candidate should have a bachelor's degree in engineering or science by the time of employment, OR an equivalent combination of experience and training.  Ideal candidates will be organized, detail-oriented, and committed to learning beyond of one’s area of expertise.  Prior experience working with rodents, programming (in Python, MATLAB, or Bonsai), and/or experience working with common data standards (e.g. Neurodata Without Borders) should be highlighted in the application, but is not required.  The position is for full-time employment on the Georgia Tech campus, with a minimum commitment of 1 year.
+ 
+Applicants should submit a resume/CV (1-2 pages), statement of interest (1 page), and contact information for 2-3 references to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).   More information about the Fong Lab can be found at fong-lab.github.io.
+ 
+Review of applications will begin in mid-January 2024, and will continue until the position is filled.
 
 
 # Ongoing Opportunities
