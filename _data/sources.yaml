@@ -5,9 +5,9 @@
 - id: doi:10.3389/fnins.2023.1167007
   image: ../images/publications/hogan2023-fnins_thumbnail.png
 
-- id: doi:10.1101/2022.02.04.479188
+- id: doi:10.7554/eLife.89093.1
   image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
-  publisher: bioRxiv
+  publisher: eLife
 
 - id: doi:10.7554/elife.70023
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
