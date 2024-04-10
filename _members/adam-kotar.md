@@ -1,6 +1,6 @@
 ---
 name: Adam Kotar
-image: images/headshots/fong.png
+image: 
 description: 
 role: current-technician
 aliases:
