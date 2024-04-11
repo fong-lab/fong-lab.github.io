@@ -16,7 +16,7 @@ Inquiries can be directed to [ybm@unist.ac.kr](mailto:ybm@unist.ac.kr).
 ## Directions
 
 {% capture text %}
-We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at UNIST. The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building in Room 3237.  Card access is required for entry to lab spaces.
+We are part of the [Department of  Computer Science and Engineering ](https://cse.unist.ac.kr/) at UNIST. The lab is located on the UNIST campus on the 5th floor of the 106 Engineering Bldg in Room 502-1.  Card access is required for entry to lab spaces.
 
 Address: UNIST #BD 106 #RM 501-9, UNIST-gil 50, Uljoo-goon, Ulsan, South Korea, 44919 [[map](https://maps.app.goo.gl/acv1ejgGa7mrF6hF6)]
 
