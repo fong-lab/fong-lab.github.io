@@ -1,7 +1,7 @@
 ---
 name: Daeun Lee
 image: images/People/daeun-lee.jpg
-role: Integrated M.S./Ph.D. student (Since 2023 Spring)
+role: phd&ms
 aliases:
   - D. Lee
   - Da-eun Lee  

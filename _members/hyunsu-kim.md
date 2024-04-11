@@ -1,7 +1,7 @@
 ---
 name: Hyunsu Kim
 image: images/People/hyunsu-kim.jpg
-role: Integrated M.S./Ph.D. student (Since 2023 Spring)
+role: phd&ms
 aliases:
   - H. Kim
 links:

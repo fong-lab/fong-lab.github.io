@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Inquiries can be directed to [ybm@unist.ac.kr](mailto:ybm@unist.ac.kr).
 {:.center}
 
 {% include section.html %}
@@ -16,15 +16,15 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
 ## Directions
 
 {% capture text %}
-We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building in Room 3237.  Card access is required for entry to lab spaces.
+We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at UNIST. The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building in Room 3237.  Card access is required for entry to lab spaces.
 
-Address: 313 Ferst Drive, Room 3237, Atlanta, GA 30318 [[map](https://www.google.com/maps/place/U.A.+Whitaker+Building/@33.7783711,-84.3969727,15z)]
+Address: UNIST #BD 106 #RM 501-9, UNIST-gil 50, Uljoo-goon, Ulsan, South Korea, 44919 [[map](https://maps.app.goo.gl/acv1ejgGa7mrF6hF6)]
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  image="https://news.unist.ac.kr/kor/wp-content/uploads/2021/07/%EC%82%AC%EC%A7%84-UNIST-%EC%A0%84%EA%B2%BD-1.jpg"
   headline=""
   text=text
 %}

@@ -1,16 +1,15 @@
 # site properties and page defaults
-title: Fong Lab
-subtitle: 
-description: Harnessing plasticity for neural rehabilitation and lifelong learning
+title: N2SL
+subtitle: Next-generation Networks and Systems Laboratory
+description: Next-generation Networks and Systems Laboratory
 header: images/pipets.jpg
 footer: images/pipets.jpg
 
 # site social media and other links
 links:
-  email: ming-fai.fong@bme.gatech.edu
-  orcid: 0000-0002-2336-4531
-  google-scholar: xlVG6IUAAAAJ
-  twitter: mingfaifong
+  email: ybm@unist.ac.kr
+  orcid: 0000-0003-3756-5956
+  google-scholar: oktgJK8AAAAJ
 
 ### jekyll settings
 

@@ -1,7 +1,7 @@
 ---
 name: Seunghyeok Choi
 image: images/People/seunghyeok-choi.jpg
-role: M.S. student (Since 2022 Fall)
+role: ms
 aliases:
   - S. Choi
 links:

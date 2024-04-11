@@ -1,7 +1,7 @@
 ---
 name: Yeon An
 image: images/People/yeon-an.jpg
-role: Integrated M.S./Ph.D. student (Since 2024 Spring)
+role: phd&ms
 aliases:
   - Y. An
 links:

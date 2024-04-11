@@ -9,11 +9,11 @@ nav:
 
 {% include section.html %}
 
-## Current Projects
+## Large-Scale Network Systems
 
 {% capture text %}
-Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
-
+ELEMENT: a latency diagnosis framework that decomposes end-to-end TCP latency into endhost and network delays
+Implement a user-level library that uses ELEMENT to minimize delays
 
 {:.center}
 {% endcapture %}
@@ -26,8 +26,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 %}
 
 {% capture text %}
-With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity tends to decline with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking to create activity states that support plasticity at the cellular, synaptic, and circuit levels.
-<br>
+FluidMem: a new approach to memory disaggregation that leverages the user-fault mechanism to achieve full memory disaggregation in software
 
 {:.center}
 {% endcapture %}
@@ -40,7 +39,101 @@ With any perturbation to activity or experience, the probability that a neural c
 %}
 
 {% capture text %}
-Amblyopia is a widespread neurodevelopmental visual impairment that arises from maladaptive plasticity during infancy or early childhood.  We aim to develop novel therapeutics for amblyopia that leverage our knowledge of plasticity at different ages and disease severities.  Treatment strategies range from neuroprosthetic implants that directly stimulate the brain to minimally invasive manipulations to visual experience or behavior.
+ECHO: a cloud resource management system that overbooks backup VMs by optimizing the overbooking rate tradeoff between availability and utilization
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
+
+{% capture text %}
+FLARE: A coordinated HAS solution for the fog computing that optimizes the total utility while maintaining stable video quality and supporting user-/device-specific needs
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
+
+{% capture text %}
+SNN: a practical machine learning-based relation analysis system, which can be used in different areas
+SNNCache: leverage SNN to utilize the inter-relationships among sequenced requests in caching decision
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
+
+## Next Generation Wireless Networking and Sensing System
+
+{% capture text %}
+Spoofing Alerts in 4G LTE Networks: investigate the details of Wireless Emergency Alert (WEA) protocol and develop and demonstrate the first practical spoofing attack
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/cortical-spindle-lgn-stim.png"
+  headline="Experience-dependent plasticity in visual circuits"
+  text=text
+%}
+
+{% capture text %}
+CASTLE: a fully distributed scheduling framework that jointly optimizes the spectral efficiency and battery consumption
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/closed-loop-visual-system.png"
+  headline="Neural interfaces for biasing plasticity"
+  text=text
+%}
+
+{% capture text %}
+An effective phase noise calibration technique which can be broadly applicable to COTS WiFi based motion sensing
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
+
+{% capture text %}
+AMUSE: a practical, cost-aware WiFi offloading system that exploits a user's delay tolerance and offloads satisfying her throughput-delay tradeoffs and data budget constraints
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
+
+{% capture text %}
+TUBE: an end-to-end system for offering time-dependent pricing to users, offer lower prices in less congested periods, encouraging users to shift some traffic to less congested periods
 
 {:.center}
 {% endcapture %}

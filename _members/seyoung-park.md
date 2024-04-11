@@ -1,15 +1,14 @@
 ---
 name: Seyung Park
 image: images/People/seyoung-park.jpg
-role: Undergraduate Researcher
+role: current-undergrad
 aliases:
   - S. Park
-  - S Park  
 links:
   email: rikaika@unist.ac.kr
 ---
 
-He is currently pursuing the Integrated B.S. degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include networking technologies.
+Seyung Park is currently pursuing the B.S. degree with Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include edge computing and resource scheduling.
 
 
 Last updated: 2024

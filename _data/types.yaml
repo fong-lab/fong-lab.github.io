@@ -2,6 +2,10 @@
 
 # team member roles
 
+prof:
+  icon: fa-solid fa-person-chalkboard
+  description: Professor
+
 pi:
   icon: fa-solid fa-person-chalkboard
   description: Principal Investigator
@@ -21,6 +25,10 @@ current-postdoc:
 current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+
+current-phd&ms:
+  icon: fa-solid fa-graduation-cap
+  description: Integrated MS/PhD Student
 
 current-ms:
   icon: fa-solid fa-building-columns
