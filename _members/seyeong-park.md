@@ -1,6 +1,6 @@
 ---
-name: Seyung Park
-image: images/People/seyoung-park.jpg
+name: Seyeong Park
+image: images/People/seyeong-park.jpg
 role: current-undergrad
 aliases:
   - S. Park
