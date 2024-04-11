@@ -1,7 +1,7 @@
 ---
 name: Hyunsu Kim
 image: images/People/hyunsu-kim.jpg
-role: phd&ms
+role: current-phd&ms
 aliases:
   - H. Kim
 links:

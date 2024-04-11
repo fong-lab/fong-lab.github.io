@@ -1,7 +1,7 @@
 ---
 name: Daeun Lee
 image: images/People/daeun-lee.jpg
-role: phd&ms
+role: current-phd&ms
 aliases:
   - D. Lee
   - Da-eun Lee  

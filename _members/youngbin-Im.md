@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Youngbin Im
 image: images/People/Prof.Im.jpg
 role: prof
 aliases:

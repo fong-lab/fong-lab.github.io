@@ -1,7 +1,7 @@
 ---
 name: Yeon An
 image: images/People/yeon-an.jpg
-role: phd&ms
+role: current-phd&ms
 aliases:
   - Y. An
 links:

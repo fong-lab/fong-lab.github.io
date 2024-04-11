@@ -1,7 +1,7 @@
 ---
 name: Seunghyeok Choi
 image: images/People/seunghyeok-choi.jpg
-role: ms
+role: current-ms
 aliases:
   - S. Choi
 links:
