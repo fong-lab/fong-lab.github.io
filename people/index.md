@@ -9,9 +9,12 @@ nav:
 
 {% include section.html %}
 
-## Current Members
+## Professor
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi" %}
+
+## Current Members
+
 {% include list.html  data="members"  component="portrait"  filters="role: current-manager" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-technician" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-postdoc" %}
