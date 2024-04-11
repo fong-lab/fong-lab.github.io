@@ -17,7 +17,17 @@
   --secondary: #075985;
   --text: #ffffff;
   --background: #181818;
-  --background-alt: #1c1c1c;
+  --background-alt: #181818;
+  --light-gray: #404040;
+  --gray: #808080;
+  --overlay: #ffffff10;
+}
+[data-blue="true"] {
+  --primary: #181818;
+  --secondary: #181818;
+  --text: #ffffff;
+  --background: #0ea5e9;
+  --background-alt: #075985;
   --light-gray: #404040;
   --gray: #808080;
   --overlay: #ffffff10;
