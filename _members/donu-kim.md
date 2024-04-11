@@ -9,7 +9,8 @@ links:
   email: dongu6213@unist.ac.kr
 ---
 
-2024. M.S.
+
+M.S. (2024)
 
 
 Last updated: 2024
