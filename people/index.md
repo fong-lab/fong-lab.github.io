@@ -13,6 +13,8 @@ nav:
 
 {% include list.html  data="members"  component="portrait"  filters="role: prof" %}
 
+{% include section.html %}
+
 ## Current Members
 
 {% include list.html  data="members"  component="portrait"  filters="role: current-phd&ms" %}
