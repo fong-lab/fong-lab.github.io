@@ -1,6 +1,6 @@
 ---
 name: Dongu Kim
-image: images/People/daeun-lee.jpg
+image: images/People/dongu-kim.jpg
 role: alum-ms
 aliases:
   - Dong U Kim
