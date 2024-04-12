@@ -4,6 +4,7 @@ image: images/People/seunghyeok-choi.jpg
 role: current-ms
 aliases:
   - S. Choi
+since: 2022 Fall
 links:
   email: one9119@unist.ac.kr
   github: https://github.com/choiish98
