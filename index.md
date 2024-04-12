@@ -7,6 +7,6 @@ N2SL's research focuses on building and deploying practical systems that span mu
 
 {%
   include figure.html
-  image="images/research/home.png"
+  image="images/research/theme4.png"
   width="90%"
 %}
