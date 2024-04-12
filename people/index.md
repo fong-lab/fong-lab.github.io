@@ -32,6 +32,14 @@ nav:
 {% include section.html dark=true %} 
 ### N2SL is looking for motivated undergraduate/graduate students who are interested in networks and systems. Please send an email to Prof. Im if you want to work with us.
 
+{%
+  include link.html
+  icon="fas fa-hands-helping"
+  text="Join the Team"
+  link="contact"
+  style="button"
+%}
+{:.center}
 
 
 {% include section.html %}
