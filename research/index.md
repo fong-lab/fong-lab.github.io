@@ -20,7 +20,7 @@ Implement a user-level library that uses ELEMENT to minimize delays
 
 {%
   include feature.html
-  image="images/research/tcp_latency.png"
+  image="images/research/tcp_latency.jpg"
   headline="LEMENT"
   text=text
 %}
@@ -77,6 +77,8 @@ SNNCache: leverage SNN to utilize the inter-relationships among sequenced reques
   headline="SNN"
   text=text
 %}
+
+{% include section.html %}
 
 ## Next Generation Wireless Networking and Sensing System
 
