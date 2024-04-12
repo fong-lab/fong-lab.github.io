@@ -33,7 +33,7 @@ FluidMem: a new approach to memory disaggregation that leverages the user-fault 
 
 {%
   include feature.html
-  image="images/research/FluidMem.png"
+  image="images/research/FluidMem.jpg"
   headline="FluidMem"
   text=text
 %}
@@ -46,7 +46,7 @@ ECHO: a cloud resource management system that overbooks backup VMs by optimizing
 
 {%
   include feature.html
-  image="images/research/echo.png"
+  image="images/research/echo.jpg"
   headline="ECHO"
   text=text
 %}
@@ -59,7 +59,7 @@ FLARE: A coordinated HAS solution for the fog computing that optimizes the total
 
 {%
   include feature.html
-  image="images/research/flare.png"
+  image="images/research/flare.jpg"
   headline="FLARE"
   text=text
 %}
@@ -73,7 +73,7 @@ SNNCache: leverage SNN to utilize the inter-relationships among sequenced reques
 
 {%
   include feature.html
-  image="images/research/ssn.png"
+  image="images/research/ssn.jpg"
   headline="SNN"
   text=text
 %}
@@ -90,7 +90,7 @@ Spoofing Alerts in 4G LTE Networks: investigate the details of Wireless Emergenc
 
 {%
   include feature.html
-  image="images/research/cms_spoofer.png"
+  image="images/research/cms_spoofer.jpg"
   headline="Spoofing Alerts in 4G LTE Networks"
   text=text
 %}
@@ -103,7 +103,7 @@ CASTLE: a fully distributed scheduling framework that jointly optimizes the spec
 
 {%
   include feature.html
-  image="images/research/castle.png"
+  image="images/research/castle.jpg"
   headline="CASTLEy"
   text=text
 %}
@@ -116,7 +116,7 @@ An effective phase noise calibration technique which can be broadly applicable t
 
 {%
   include feature.html
-  image="images/research/sensys.png"
+  image="images/research/sensys.jpg"
   headline="An effective phase noise calibration technique"
   text=text
 %}
@@ -129,7 +129,7 @@ AMUSE: a practical, cost-aware WiFi offloading system that exploits a user's del
 
 {%
   include feature.html
-  image="images/research/amuse.png"
+  image="images/research/amuse.jpg"
   headline="AMUSE"
   text=text
 %}
@@ -142,7 +142,7 @@ TUBE: an end-to-end system for offering time-dependent pricing to users, offer l
 
 {%
   include feature.html
-  image="images/research/tube.png"
+  image="images/research/tube.jpg"
   headline="TUBE"
   text=text
 %}
