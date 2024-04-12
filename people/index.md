@@ -36,7 +36,7 @@ nav:
   include button.html
   icon="fa-solid fa-handshake-angle"
   text="Join the Team"
-  link="join"
+  link="contact"
   style="button"
 %}
 
