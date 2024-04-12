@@ -1,5 +1,5 @@
 ---
-name: Daeun Lee
+name: Daeun Lee 
 image: images/People/daeun-lee.jpg
 role: current-phd&ms 
 aliases:

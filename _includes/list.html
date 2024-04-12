@@ -7,7 +7,7 @@
 
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
-  | sort: "date" <!-- @delee "name" to "date" -->
+  | sort: "name" <!-- @delee "name" to "date" -->
   | reverse
 %}
 
