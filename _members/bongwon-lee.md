@@ -4,7 +4,7 @@ image: images/People/photo.jpg
 role: alum-ms
 aliases:
 links:
-  email: dongu6213@unist.ac.kr
+  email: qhddnjs1@unist.ac.kr
 ---
 
 M.S. (2023)
