@@ -1,5 +1,622 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: oktgJK8AAAAJ:W7OEmFMy1HYC
+  title: 'TUBE: Time-dependent pricing for mobile data'
+  authors:
+  - S Ha
+  - S Sen
+  - C Joe-Wong
+  - Y Im
+  - M Chiang
+  publisher: "Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies\
+    \ \u2026, 2012"
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:W7OEmFMy1HYC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:2osOgNQ5qMEC
+  title: 'AMUSE: Empowering users for cost-aware offloading with throughput-delay
+    tradeoffs'
+  authors:
+  - Y Im
+  - C Joe-Wong
+  - S Ha
+  - S Sen
+  - M Chiang
+  publisher: IEEE Transactions on Mobile Computing 15 (5), 1062-1076, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:2osOgNQ5qMEC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:ufrVoPGSRksC
+  title: A practical evaluation of rate adaptation algorithms in http-based adaptive
+    streaming
+  authors:
+  - I Ayad
+  - Y Im
+  - E Keller
+  - S Ha
+  publisher: Computer Networks 133, 90-103, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ufrVoPGSRksC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:5nxA0vEk-isC
+  title: 'This is your president speaking: Spoofing alerts in 4G LTE networks'
+  authors:
+  - G Lee
+  - J Lee
+  - J Lee
+  - Y Im
+  - M Hollingsworth
+  - E Wustrow
+  - D Grunwald
+  - S Ha
+  publisher: "Proceedings of the 17th Annual International Conference on Mobile Systems\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:5nxA0vEk-isC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:mVmsd5A6BfQC
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
+  authors:
+  - T Kim
+  - SD Sathyanarayana
+  - S Chen
+  - Y Im
+  - X Zhang
+  - S Ha
+  - C Joe-Wong
+  publisher: IEEE Journal on Selected Areas in Communications 41 (3), 675-689, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:u-x6o8ySG0sC
+  title: 'MASERATI: Mobile adaptive streaming based on environmental and contextual
+    information'
+  authors:
+  - D Han
+  - J Han
+  - Y Im
+  - M Kwak
+  - TT Kwon
+  - Y Choi
+  publisher: "Proceedings of the 8th ACM international workshop on Wireless network\
+    \ \u2026, 2013"
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u-x6o8ySG0sC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:aqlVkmm33-oC
+  title: The hidden costs of land degradation in US maize agriculture
+  authors:
+  - WS Jang
+  - JC Neff
+  - Y Im
+  - L Doro
+  - JE Herrick
+  publisher: Earth's Future 9 (2), e2020EF001641, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:_kc_bZDykSQC
+  title: 'Fluidmem: Full, flexible, and fast memory disaggregation for the cloud'
+  authors:
+  - B Caldwell
+  - S Goodarzy
+  - S Ha
+  - R Han
+  - E Keller
+  - E Rozner
+  - Y Im
+  publisher: "2020 IEEE 40th International Conference on Distributed Computing Systems\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_kc_bZDykSQC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:zYLM7Y9cAGgC
+  title: Calibrating time-variant, device-specific phase noise for COTS WiFi devices
+  authors:
+  - J Zhu
+  - Y Im
+  - S Mishra
+  - S Ha
+  publisher: Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems,
+    1-12, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:zYLM7Y9cAGgC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Y0pCki6q_DkC
+  title: 'SVC-TChain: Incentivizing good behavior in layered P2P video streaming'
+  authors:
+  - P Rahimzadeh
+  - C Joe-Wong
+  - K Shin
+  - Y Im
+  - J Lee
+  - S Ha
+  publisher: IEEE INFOCOM 2017-IEEE Conference on Computer Communications, 1-9, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Y0pCki6q_DkC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:_FxGoFyzp5QC
+  title: 'SNN-cache: A practical machine learning-based caching system utilizing the
+    inter-relationships of requests'
+  authors:
+  - Y Im
+  - P Prahladan
+  - TH Kim
+  - YG Hong
+  - S Ha
+  publisher: 2018 52nd Annual Conference on Information Sciences and Systems (CISS),
+    1-6, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_FxGoFyzp5QC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:qxL8FJ1GzNcC
+  title: 'SPARCLE: Stream processing applications over dispersed computing networks'
+  authors:
+  - P Rahimzadeh
+  - J Lee
+  - Y Im
+  - SC Mau
+  - EC Lee
+  - BO Smith
+  - F Al-Duoli
+  - '...'
+  publisher: "2020 IEEE 40th International Conference on Distributed Computing Systems\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNcC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Se3iqnhoufwC
+  title: Modeling MPTCP performance
+  authors:
+  - J Lee
+  - Y Im
+  - J Lee
+  publisher: IEEE communications letters 23 (4), 616-619, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:eQOLeE2rZwMC
+  title: Method for providing video streaming service and mobile device for same
+  authors:
+  - HH Lee
+  - T Kwon
+  - HN Lim
+  - D Han
+  - JC Lee
+  - Y Im
+  - T Chung
+  publisher: US Patent 10,631,030, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:9yKSN-GCB0IC
+  title: A performance analysis of incentive mechanisms for cooperative computing
+  authors:
+  - C Joe-Wong
+  - Y Im
+  - K Shin
+  - S Ha
+  publisher: "2016 IEEE 36th International Conference on Distributed Computing Systems\
+    \ \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9yKSN-GCB0IC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:UebtZRa9Y70C
+  title: 'I sent it: Where does slow data go to wait?'
+  authors:
+  - Y Im
+  - P Rahimzadeh
+  - B Shouse
+  - S Park
+  - C Joe-Wong
+  - K Lee
+  - S Ha
+  publisher: Proceedings of the Fourteenth EuroSys Conference 2019, 1-15, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UebtZRa9Y70C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Tyk-4Ss8FVUC
+  title: 'Fluidmem: Memory as a service for the datacenter'
+  authors:
+  - B Caldwell
+  - Y Im
+  - S Ha
+  - R Han
+  - E Keller
+  publisher: arXiv preprint arXiv:1707.07780, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Tyk-4Ss8FVUC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:8k81kl-MbHgC
+  title: 'CASTLE over the air: Distributed scheduling for cellular data transmissions'
+  authors:
+  - J Lee
+  - J Lee
+  - Y Im
+  - S Dhawaskar Sathyanarayana
+  - P Rahimzadeh
+  - '...'
+  publisher: "Proceedings of the 17th Annual International Conference on Mobile Systems\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:qjMakFHDy7sC
+  title: 'Vertical handovers in multiple heterogeneous wireless networks: a measurement
+    study for the future Internet'
+  authors:
+  - Y Im
+  - H Jung
+  - JH Lee
+  - W Yoon
+  - TT Kwon
+  - Y Choi
+  publisher: "Proceedings of the 5th international conference on future internet \u2026\
+    , 2010"
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qjMakFHDy7sC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:YsMSGLbcyi4C
+  title: 'FIRM: Flow-based interference-aware route management in wireless mesh networks'
+  authors:
+  - Y Im
+  - J Lee
+  - J Han
+  - SJ Lee
+  - T Kwon
+  publisher: "2009 6th IEEE Annual Communications Society Conference on Sensor, Mesh\
+    \ and \u2026, 2009"
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YsMSGLbcyi4C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:roLk4NBRz8UC
+  title: 'Development of an EPIC parallel computing framework to facilitate regional/global
+    gridded crop modeling with multiple scenarios: A case study of the United States'
+  authors:
+  - WS Jang
+  - Y Lee
+  - JC Neff
+  - Y Im
+  - S Ha
+  - L Doro
+  publisher: Computers and electronics in agriculture 158, 189-200, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:roLk4NBRz8UC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:d1gkVwhDpl0C
+  title: 'FLARE: Coordinated rate adaptation for HTTP adaptive streaming in cellular
+    networks'
+  authors:
+  - Y Im
+  - J Han
+  - JH Lee
+  - Y Kwon
+  - C Joe-Wong
+  - T Kwon
+  - S Ha
+  publisher: "2017 IEEE 37th International Conference on Distributed Computing Systems\
+    \ \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Wp0gIr-vW9MC
+  title: 'ECLAT: An ECN marking system for latency guarantee in cellular networks'
+  authors:
+  - J Kim
+  - Y Im
+  - K Lee
+  publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications, 1-10, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Zph67rFs4hoC
+  title: 'ECHO: Efficiently overbooking applications to create a highly available
+    cloud'
+  authors:
+  - P Rahimzadeh
+  - Y Im
+  - G Jung
+  - C Joe-Wong
+  - S Ha
+  publisher: "2019 IEEE 39th International Conference on Distributed Computing Systems\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:0EnyYjriUFMC
+  title: 'This is your president speaking: Spoofing alerts in 4G LTE networks'
+  authors:
+  - M Hollingsworth
+  - G Lee
+  - J Lee
+  - J Lee
+  - Y Im
+  - E Wustrow
+  - D Grunwald
+  - S Ha
+  publisher: "Proceedings of the 17th Annual International Conference on Mobile Systems\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:0EnyYjriUFMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:u5HHmVD_uO8C
+  title: A femtocell-based testbed for evaluating future cellular networks
+  authors:
+  - H Jung
+  - JH Lee
+  - C Park
+  - Y Im
+  - T Kwon
+  - Y Choi
+  publisher: Proc. International Conference on Future Internet Technologies (CFI),
+    2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:7PzlFSSx8tAC
+  title: 'An empirical study of 5g: Effect of edge on transport protocol and application
+    performance'
+  authors:
+  - H Lim
+  - J Lee
+  - J Lee
+  - SD Sathyanarayana
+  - J Kim
+  - A Nguyen
+  - KT Kim
+  - Y Im
+  - '...'
+  publisher: IEEE Transactions on Mobile Computing, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:IjCSPb-OGe4C
+  title: Method and apparatus for controlling send buffer of transmission control
+    protocol in communication system
+  authors:
+  - JS Lee
+  - YB Im
+  - S Ha
+  - SJ Moon
+  - JS Park
+  - JC Lee
+  - J Lee
+  publisher: US Patent 10,560,389, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:IjCSPb-OGe4C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:kNdYIx-mwKoC
+  title: 'Towards automated network management: Learning the optimal protocol selection'
+  authors:
+  - X Zhang
+  - S Chen
+  - Y Im
+  - M Gorlatova
+  - S Ha
+  - C Joe-Wong
+  publisher: 2019 IEEE 27th International Conference on Network Protocols (ICNP),
+    1-4, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:kNdYIx-mwKoC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:L8Ckcad2t8MC
+  title: Enabling Delay-Guaranteed Congestion Control With One-Bit Feedback in Cellular
+    Networks
+  authors:
+  - J Kim
+  - Y Im
+  - K Lee
+  publisher: IEEE/ACM Transactions on Networking, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:L8Ckcad2t8MC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:dhFuZR0502QC
+  title: Optimal network protocol selection for competing flows via online learning
+  authors:
+  - X Zhang
+  - S Chen
+  - Y Zhang
+  - Y Im
+  - M Gorlatova
+  - S Ha
+  - C Joe-Wong
+  publisher: IEEE Transactions on Mobile Computing, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:9ZlFYXVOiuMC
+  title: Securing the wireless emergency alerts system
+  authors:
+  - J Lee
+  - G Lee
+  - J Lee
+  - Y Im
+  - M Hollingsworth
+  - E Wustrow
+  - D Grunwald
+  - S Ha
+  publisher: Communications of the ACM 64 (10), 85-93, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:WF5omc3nYNoC
+  title: Method and apparatus for assigning video bitrate in mobile communication
+    system
+  authors:
+  - LEE Hyungho
+  - T Kwon
+  - J Lee
+  - Y Im
+  - H Lim
+  - T Chung
+  - D Han
+  publisher: US Patent 9,398,337, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:WF5omc3nYNoC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:KlAtU1dfN6UC
+  title: Optimal Learning-Based Network Protocol Selection
+  authors:
+  - X Zhang
+  - S Chen
+  - Y Im
+  - M Gorlotova
+  - S Ha
+  - C Joe-Wong
+  publisher: IEEE/ACM, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:KlAtU1dfN6UC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:4DMP91E08xMC
+  title: "DEMO\u2013This is Your President Speaking: Spoofing Alerts in 4G LTE Networks"
+  authors:
+  - M Hollingsworth
+  - G Lee
+  - J Lee
+  - J Lee
+  - Y Im
+  - E Wustrow
+  - D Grunwald
+  - S Ha
+  publisher: ''
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:4DMP91E08xMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:YOwf2qJgpHMC
+  title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in
+    an Agricultural Field using Parallel Computing.
+  authors:
+  - WS Jang
+  - J Neff
+  - Y Im
+  - J Park
+  - J Herrick
+  publisher: Geophysical Research Abstracts 21, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YOwf2qJgpHMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:hqOjcs7Dif8C
+  title: Performance Evaluation in Combination of Wired and Wireless Mesh Networks
+  authors:
+  - JY Han
+  - HD Jung
+  - YB Im
+  - JK Lee
+  - JH Ryu
+  - TK Kwon
+  - YH Choi
+  publisher: 'Journal of KIISE: Computing Practices and Letters 14 (8), 778-782, 2008'
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:hqOjcs7Dif8C
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:ULOm3_A8WrAC
+  title: ICDCS 2019
+  authors:
+  - P Rahimzadeh
+  - Y Im
+  - C Joe-Wong
+  - S Ha
+  - P Ha
+  - E Zhang
+  - L Xu
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ULOm3_A8WrAC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:UeHWp8X0CEIC
+  title: Pricing by Timing of Mobile Data
+  authors:
+  - S Ha
+  - S Sen
+  - C Joe-Wong
+  - J Mifkovich
+  - R Rill
+  - Y Im
+  - D Butnariu
+  - J Bawa
+  - '...'
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1109/TMC.2023.3274708
   title: 'An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application
     Performance'
