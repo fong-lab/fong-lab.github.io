@@ -1,5 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/eLife.97399
+  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
+    synaptic connections'
+  authors:
+  - Mighten C. Yip
+  - Mercedes M. Gonzalez
+  - Colby F. Lewallen
+  - Corey R. Landry
+  - Ilya Kolb
+  - Bo Yang
+  - William M. Stoy
+  - Ming-fai Fong
+  - Matthew J. M. Rowan
+  - Edward S. Boyden
+  - Craig R. Forest
+  publisher: eLife
+  date: '2024-06-13'
+  link: https://doi.org/gtzht6
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.97399.1
+  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
+    synaptic connections'
+  authors:
+  - Mighten C. Yip
+  - Mercedes M. Gonzalez
+  - Colby F. Lewallen
+  - Corey R. Landry
+  - Ilya Kolb
+  - Bo Yang
+  - William M. Stoy
+  - Ming-fai Fong
+  - Matthew J. M. Rowan
+  - Edward S. Boyden
+  - Craig R. Forest
+  publisher: eLife
+  date: '2024-06-13'
+  link: https://doi.org/gtzht7
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.03.30.587445
   title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections'
