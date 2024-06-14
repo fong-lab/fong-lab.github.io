@@ -21,48 +21,6 @@
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.97399.1
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
-  authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-06-13'
-  link: https://doi.org/gtzht7
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.03.30.587445
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
-  authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-04-01'
-  link: https://doi.org/gtqmqr
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/elife.87753.1
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
     than transmitter receptor activation
@@ -97,30 +55,6 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/hogan2023-fnins_thumbnail.png
-- id: doi:10.1101/2022.02.04.479188
-  title: Reward contingency gates selective cholinergic suppression of amygdala neurons
-  authors:
-  - Eyal Y. Kimchi
-  - Anthony Burgos-Robles
-  - Gillian A. Matthews
-  - Tatenda Chakoma
-  - Makenzie Patarino
-  - Javier Weddington
-  - Cody A. Siciliano
-  - Wannan Yang
-  - Shaun Foutch
-  - Renee Simons
-  - Ming-fai Fong
-  - Miao Jing
-  - Yulong Li
-  - Daniel B. Polley
-  - Kay M. Tye
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-05'
-  link: https://doi.org/gq6mfx
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
