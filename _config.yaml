@@ -4,6 +4,7 @@ subtitle:
 description: Harnessing plasticity for neural rehabilitation and lifelong learning
 header: images/pipets.jpg
 footer: images/pipets.jpg
+proofer: false
 
 # site social media and other links
 links:
@@ -11,6 +12,7 @@ links:
   orcid: 0000-0002-2336-4531
   google-scholar: xlVG6IUAAAAJ
   twitter: mingfaifong
+
 
 ### jekyll settings
 

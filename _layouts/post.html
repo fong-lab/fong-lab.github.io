@@ -2,12 +2,15 @@
 layout: default
 ---
 
+{% include section.html background=page.image %}
+
 <h1 class="center">{{ page.title }}</h1>
 
 {%
   include post-info.html
-  published=page.date
+  author=page.author
   member=page.member
+  published=page.date
   tags=page.tags
 %}
 
