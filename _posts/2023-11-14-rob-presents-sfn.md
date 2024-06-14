@@ -1,8 +1,8 @@
 ---
-title: Rob presents at SfN
+title: Rob and Chao present at SfN
 tags:
 author: 
-member: robert-lamprecht
+member: 
 image: images/news/2023-rob-sfn.jpg
 ---
 
