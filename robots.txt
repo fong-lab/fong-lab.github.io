@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://fong-lab.github.io/sitemap.xml
