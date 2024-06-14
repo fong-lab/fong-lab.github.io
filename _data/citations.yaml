@@ -121,17 +121,17 @@
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.05.03.442423
+- id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
   - Ming-fai Fong
-  - Kevin R. Duffy
-  - Madison P. Leet
-  - Christian T. Candler
-  - Mark F. Bear
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-05-03'
-  link: https://doi.org/gkcdst
+  - Kevin R Duffy
+  - Madison P Leet
+  - Christian T Candler
+  - Mark F Bear
+  publisher: eLife
+  date: '2021-08-31'
+  link: https://doi.org/gmqmgr
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
