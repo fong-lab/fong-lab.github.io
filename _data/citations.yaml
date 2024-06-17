@@ -32,13 +32,12 @@
   - Nicholas Au Yong
   - Kathrin Engisch
   - Peter Wenner
-  publisher: eLife
+  publisher: eLife Sciences Publications, Ltd
   date: '2023-06-22'
   link: https://doi.org/gsjtrn
   orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fnins.2023.1167007
   title: Investigation of the efficacy and safety of retinal inactivation as a treatment
     for amblyopia in cats
@@ -248,27 +247,64 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/tedrake2004-icra_thumbnail.png
-- id: doi:10.7554/eLife.89093.1
+- id: doi:10.7554/eLife.97399.1
+  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
+    synaptic connections'
+  authors:
+  - Mighten C. Yip
+  - Mercedes M. Gonzalez
+  - Colby F. Lewallen
+  - Corey R. Landry
+  - Ilya Kolb
+  - Bo Yang
+  - William M. Stoy
+  - Ming-fai Fong
+  - Matthew J.M. Rowan
+  - Edward S. Boyden
+  - Craig R. Forest
+  publisher: eLife
+  date: '2024-06-13'
+  link: https://doi.org/gtzht7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.87753.2
+  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
+    than AMPA receptor activation
+  authors:
+  - Carlos Gonzalez-Islas
+  - Zahraa Sabra
+  - Ming-fai Fong
+  - "Pernille B\xFClow"
+  - Nicholas Au Yong
+  - Kathrin Engisch
+  - Peter Wenner
+  publisher: eLife
+  date: '2024-06-07'
+  link: https://doi.org/gtztk3
+  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.7554/eLife.89093.2
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
-  - Eyal Y. Kimchi
+  - Eyal Y Kimchi
   - Anthony Burgos-Robles
-  - Gillian A. Matthews
+  - Gillian A Matthews
   - Tatenda Chakoma
   - Makenzie Patarino
-  - Javier Weddington
-  - Cody A. Siciliano
+  - Javier C Weddington
+  - Cody Siciliano
   - Wannan Yang
   - Shaun Foutch
   - Renee Simons
   - Ming-fai Fong
   - Miao Jing
   - Yulong Li
-  - Daniel B. Polley
-  - Kay M. Tye
+  - Daniel B Polley
+  - Kay M Tye
   publisher: eLife
-  date: '2023-07-05'
-  link: https://doi.org/gtcp5b
+  date: '2024-02-20'
+  link: https://doi.org/gtztk4
   image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
   plugin: sources.py
   file: sources.yaml
