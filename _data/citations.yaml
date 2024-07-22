@@ -1,6 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.03.30.587445
+- id: doi:10.7554/eLife.87753
+  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
+    than AMPA receptor activation
+  authors:
+  - Carlos Gonzalez-Islas
+  - Zahraa Sabra
+  - Ming-fai Fong
+  - Pernille Yilmam
+  - Nicholas Au Yong
+  - Kathrin Engisch
+  - Peter Wenner
+  publisher: eLife
+  date: '2024-06-28'
+  link: https://doi.org/gt4jqh
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.87753.3
+  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
+    than AMPA receptor activation
+  authors:
+  - Carlos Gonzalez-Islas
+  - Zahraa Sabra
+  - Ming-fai Fong
+  - Pernille Yilmam
+  - Nicholas Au Yong
+  - Kathrin Engisch
+  - Peter Wenner
+  publisher: eLife
+  date: '2024-06-28'
+  link: https://doi.org/gt4jqj
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.97399.1
   title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections'
   authors:
@@ -15,15 +49,15 @@
   - Matthew J.M. Rowan
   - Edward S. Boyden
   - Craig R. Forest
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-04-01'
-  link: https://doi.org/gtqmqr
+  publisher: eLife
+  date: '2024-06-13'
+  link: https://doi.org/gtzht7
   orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/elife.87753.1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/elife.87753.2
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than transmitter receptor activation
+    than AMPA receptor activation
   authors:
   - Carlos Gonzalez-Islas
   - Zahraa Sabra
@@ -33,27 +67,11 @@
   - Kathrin Engisch
   - Peter Wenner
   publisher: eLife Sciences Publications, Ltd
-  date: '2023-06-22'
-  link: https://doi.org/gsjtrn
+  date: '2024-06-07'
+  link: https://doi.org/gtztk3
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fnins.2023.1167007
-  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
-    for amblyopia in cats
-  authors:
-  - Mairin Hogan
-  - Nadia R. DiCostanzo
-  - Nathan A. Crowder
-  - Ming-fai Fong
-  - Kevin R. Duffy
-  publisher: Frontiers in Neuroscience
-  date: '2023-06-20'
-  link: https://doi.org/gsjtrm
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/hogan2023-fnins_thumbnail.png
 - id: doi:10.1101/2022.02.04.479188
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
@@ -78,6 +96,22 @@
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/fnins.2023.1167007
+  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
+    for amblyopia in cats
+  authors:
+  - Mairin Hogan
+  - Nadia R. DiCostanzo
+  - Nathan A. Crowder
+  - Ming-fai Fong
+  - Kevin R. Duffy
+  publisher: Frontiers in Neuroscience
+  date: '2023-06-20'
+  link: https://doi.org/gsjtrm
+  orcid: 0000-0002-2336-4531
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/hogan2023-fnins_thumbnail.png
 - id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
@@ -247,26 +281,6 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/tedrake2004-icra_thumbnail.png
-- id: doi:10.7554/eLife.97399.1
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
-  authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: eLife
-  date: '2024-06-13'
-  link: https://doi.org/gtzht7
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.7554/eLife.87753.2
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
     than AMPA receptor activation
