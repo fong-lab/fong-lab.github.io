@@ -2,7 +2,7 @@
 name: Robert Lamprecht
 image: images/headshots/lamprecht.png
 description: 
-role: current-technician
+role: former-technician
 aliases:
   - R. Lamprecht
   - R. D. Lamprecht
@@ -16,4 +16,5 @@ links:
 
 Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science with a concentration in neuroscience from Wofford College. He has previously conducted research on affective disorders and spinal cord injury using rodent models. Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be leveraged to better understand sensation and perception.
 
-Last updated: 2022
+Tenure in lab: 2022-2024
+Position after Fong Lab: : PhD student, [Emory Neuroscience Graduate Program](https://biomed.emory.edu/PROGRAM_SITES/NS/)
