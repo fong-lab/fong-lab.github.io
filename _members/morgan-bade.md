@@ -2,7 +2,7 @@
 name: Morgan Bade
 image: images/headshots/bade.png
 description: 
-role: current-rotation
+role: current-phd
 aliases:
   - M. Bade
   - M. L. Bade
