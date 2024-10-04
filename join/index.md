@@ -25,17 +25,11 @@ We accept graduate students who have already been admitted to one of the followi
 
 [Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
 [Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
-[Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
+[Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/) <br>
 [Emory MD-PhD Program](https://med.emory.edu/MDPHD/)
 
 **We cannot directly admit graduate students into our lab.** However, if you are interested in our research, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and want to learn specific details about ongoing projects or joining the lab for your PhD studies (or a research rotation), please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
-Graduate students considering joining the Fong Lab (or any neuroscience/neuroengineering lab) are strongly encouraged to enroll in the following courses:
-- Georgia Tech BMED 7610 Quantitative Neuroscience (Fall only)
-- Emory IBS 526 Neuroanatomy and Systems Neuroscience (Fall only)
-- Emory IBS 514 Cellular, Developmental, Molecular, and Translational Neuroscience (Spring only)
-
-Please keep the registration deadlines and cross-registration deadlines in mind.
 
 ### Undergraduate students
 If you are interested in working in the lab, please fill out the [Undergraduate Research Interest Form](https://forms.office.com/r/QD7qYbh2Et).  We encourage you to fill out this form (rather than to email us directly) to demonstrate that you have read through our website and understand the expectations for undergraduate researchers in our lab.  When positions become available, lab personnel will look through the form responses to identify candidates whose interests and goals align best with their research projects.  At that time, they will reach out to candidates directly to request additional materials (e.g. resume) and schedule interviews.  This communication typically occurs 1-2 months prior to the start of the semester, with hiring occuring at the beginning of the semester.
