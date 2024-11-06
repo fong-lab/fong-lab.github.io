@@ -18,4 +18,4 @@ Robert Lamprecht is a research technician in the Department of Biomedical Engine
 
 
 Position in lab: Research Technician (2022-2024)<br>
-Position after Fong Lab: : PhD student in Neuroscience at Emory University
+Position after Fong Lab: PhD student in Neuroscience at Emory University
