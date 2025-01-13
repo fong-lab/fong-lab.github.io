@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/eLife.97399.3
+  title: Patch-walking, a coordinated multi-pipette patch clamp for efficiently finding
+    synaptic connections
+  authors:
+  - Mighten C Yip
+  - Mercedes M Gonzalez
+  - Colby F Lewallen
+  - Corey R Landry
+  - Ilya Kolb
+  - Bo Yang
+  - William M Stoy
+  - Ming-fai Fong
+  - Matthew JM Rowan
+  - Edward S Boyden
+  - Craig R Forest
+  publisher: eLife
+  date: '2024-11-18'
+  link: https://doi.org/g8rtmp
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.97399.2
   title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections'
@@ -39,27 +60,6 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
-- id: doi:10.7554/eLife.97399.1
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
-  authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-06-13'
-  link: https://doi.org/gtzht7
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2022.02.04.479188
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
