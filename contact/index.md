@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+If you are interested in joining the lab, please review information on [this page](https://fong-lab.github.io/join/).  Other inquiries can be directed to ming-fai.fong@bme.gatech.edu.
 {:.center}
 
 {% include section.html %}
