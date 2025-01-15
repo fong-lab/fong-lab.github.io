@@ -1,17 +1,19 @@
-{% assign image = page.footer | default: site.footer | relative_url %}
+{% assign image = page.footer | default: site.footer %}
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
   class="background"
-  style="--image: url('{{ image }}')"
+  style="--image: url('{{ image | relative_url | uri_escape }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
   data-size="wide"
 >
+  <!--
     <div>
-      Coulter Department of Biomedical Engineering @ Georgia Tech & Emory
+      Extra details like contact info or address
     </div>
+  -->
 
   <div>
     {% for link in site.links %}
@@ -26,7 +28,7 @@
     {{ site.title }}
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
-      LWT
+      Lab Website Template
     </a>
   </div>
 
