@@ -29,26 +29,22 @@ layout: default
 %}
 
 {% capture search -%}
-  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-<!--
 <p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Publications page
+  <a href="{{ search | relative_url | uri_escape }}">
+    Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
--->
 
 {% capture search -%}
   blog/?search={{ page.name }}
 {%- endcapture %}
 
-
-
 <!--
 <p class="center">
-  <a href="{{ search | relative_url }}">
+  <a href="{{ search | relative_url | uri_escape }}">
     See {{ page.name | default: page.title }}'s posts on the Blog page
   </a>
 </p>
