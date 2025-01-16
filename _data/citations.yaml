@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.7554/eLife.97399.3
+- id: doi:10.7554/eLife.97399
   title: Patch-walking, a coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections
   authors:
@@ -17,7 +17,7 @@
   - Craig R Forest
   publisher: eLife
   date: '2024-11-18'
-  link: https://doi.org/g8rtmp
+  link: https://doi.org/gtzht6
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
@@ -39,27 +39,27 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
-- id: doi:10.1101/2022.02.04.479188
+- id: doi:10.7554/elife.89093
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
-  - Eyal Y. Kimchi
+  - Eyal Y Kimchi
   - Anthony Burgos-Robles
-  - Gillian A. Matthews
+  - Gillian A Matthews
   - Tatenda Chakoma
   - Makenzie Patarino
-  - Javier Weddington
-  - Cody A. Siciliano
+  - Javier C Weddington
+  - Cody Siciliano
   - Wannan Yang
   - Shaun Foutch
   - Renee Simons
   - Ming-fai Fong
   - Miao Jing
   - Yulong Li
-  - Daniel B. Polley
-  - Kay M. Tye
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-05'
-  link: https://doi.org/gq6mfx
+  - Daniel B Polley
+  - Kay M Tye
+  publisher: eLife
+  date: '2024-02-20'
+  link: https://doi.org/gt63zd
   orcid: 0000-0002-2336-4531
   plugin: orcid.py
   file: orcid.yaml
