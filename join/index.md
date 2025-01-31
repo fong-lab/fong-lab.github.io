@@ -26,6 +26,7 @@ We accept graduate students who have already been admitted to one of the followi
 [Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
 [Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/) <br>
+[Georgia Tech Neuroscience and Neurotechnology Program](https://neuro.gatech.edu/training-page/graduate-academic-programs/phd/)<br>
 [Emory MD-PhD Program](https://med.emory.edu/MDPHD/)
 
 **We cannot directly admit graduate students into our lab.** However, if you are interested in our research, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and want to learn specific details about ongoing projects or joining the lab for your PhD studies (or a research rotation), please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
