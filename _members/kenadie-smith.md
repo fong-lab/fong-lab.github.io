@@ -2,7 +2,7 @@
 name: Kenadie Smith
 image: images/headshots/smith.png
 description: 
-role: hs
+role: current-hs
 aliases:
   - K. T. Smith
   - KT Smith
