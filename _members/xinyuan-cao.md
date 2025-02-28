@@ -2,7 +2,7 @@
 name: Xinyuan (Max) Cao
 image: images/headshots/cao.png
 description: 
-role: current-phd
+role: current-rotation
 aliases:
   - X. Cao
   - X Cao
