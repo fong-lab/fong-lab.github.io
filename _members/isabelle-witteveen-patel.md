@@ -1,6 +1,6 @@
 ---
 name: Isabelle Witteveen-Patel
-image: images/headshots/swoop.png
+image: images/headshots/witteveen-patel.png
 description: 
 role: current-rotation
 aliases:
