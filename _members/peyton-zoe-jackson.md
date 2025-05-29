@@ -16,4 +16,3 @@ Peyton-Zoe is a rising senior at Benjamin E. Mays High School and member of the 
 
 
 Position in lab: ENGAGES Research Intern (2024)
-Position after Fong Lab:
