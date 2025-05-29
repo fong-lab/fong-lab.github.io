@@ -18,4 +18,3 @@ disorders, neuroplasticity in various biological pathways and the role of brain-
 
 
 Position in lab: Undergraduate Researcher (2023-2025)
-Position after Fong Lab: 
