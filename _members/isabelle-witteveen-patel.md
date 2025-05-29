@@ -2,7 +2,7 @@
 name: Isabelle Witteveen-Patel
 image: images/headshots/witteveen-patel.png
 description: 
-role: current-rotation
+role: alum-rotation
 aliases:
   - I. Witteveen
   - I Witteveen
@@ -20,6 +20,8 @@ links:
   email: isabelle.witteveen@emory.edu
 ---
 
-biography pending…
+Isabelle Witteveen-Patel is a PhD student in the Neuroscience Graduate Program at Emory. She received her BA in Neuroscience at the University of Virginia, and her M.Ed. in Science Education from Arizona State University.  Izzy has worked as a researcher in auditory neuroscience, visual system development, and neuronal protein degradation, and as a full-time teacher in physics, chemistry, math, and reading.  She is interested in applying neurophysiology to study experience-dependent plasticity in the brain.
 
-last updated: 2025
+
+Position in lab: Graduate Rotation Student (2025)<br>
+Position after Fong Lab: PhD student in Steve Traynelis's lab at Emory University
