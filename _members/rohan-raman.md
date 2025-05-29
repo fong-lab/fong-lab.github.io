@@ -2,7 +2,7 @@
 name: Rohan Raman
 image: images/headshots/raman.png
 description: 
-role: current-undergrad
+role: alum-undergrad
 aliases:
   - R. Raman
   - R Raman
@@ -16,4 +16,6 @@ Rohan Raman is a second-year neuroscience major at Georgia Tech, also minoring  
 Genome Sciences Department, he conducted research on the protein coding gene Src using yeast models. Rohan is interested in treatments for neurodegenerative 
 disorders, neuroplasticity in various biological pathways and the role of brain-computer interactions in studying neurological function. 
 
-Last updated: 2023
+
+Position in lab: Undergraduate Researcher (2023-2025)
+Position after Fong Lab: 
