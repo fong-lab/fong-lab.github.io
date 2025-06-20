@@ -42,12 +42,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - uses: jwalton/gh-find-current-pr@master
-        if: github.event.action != 'closed'
-        id: pr
-        with:
-          state: all
-
       - name: SSH debug
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
