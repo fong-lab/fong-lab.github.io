@@ -1,24 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.14.25329308
-  title: Deep brain stimulation-induced local evoked potentials outperform spectral
-    features in spatial and clinical STN mapping
-  authors:
-  - Enrico Opri
-  - Faical Isbaine
-  - Seyyed Bahram Borgheai
-  - Emily Bence
-  - Roohollah Jafari Deligani
-  - Jon T Willie
-  - Robert E. Gross
-  - Nicholas Au Yong
-  - Svjetlana Miocinovic
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-16'
-  link: https://doi.org/g9qt8t
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/eLife.97399
   title: Patch-walking, a coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections
