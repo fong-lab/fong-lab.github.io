@@ -2,6 +2,31 @@
 
 Reference: common-changelog.org
 
+## 1.3.5 - 2025-05-12
+
+###
+
+- Fix workflow bug where PR previews on GitHub Actions have broken styles/links/etc. 
+- Fix tags component relative link bug
+- Make Actions workflows a bit more robust
+
+## 1.3.4 - 2025-02-03
+
+### Changed
+
+- Fix section component parsing bug.
+
+## 1.3.3 - 2025-01-25
+
+### Changed
+
+- Citation process logging enhancements.
+
+### Added
+
+- Add support for multiple authors in blog posts.
+- Add GitHub Actions workflow status badges to readme.
+
 ## 1.3.2 - 2025-01-06
 
 ### Changed
