@@ -2,7 +2,7 @@
 name: Ruhi Dua
 image: images/headshots/dua.png
 description: 
-role: current-undergrad
+role: alum-undergrad
 aliases:
   - R. Dua
   - R Dua
