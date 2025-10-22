@@ -2,7 +2,7 @@
 name: Alissa Klein
 image: images/headshots/klein.png
 description: 
-role: current-undergrad
+role: alum-undergrad
 aliases:
   - A. Klein
   - Alissa Klein
