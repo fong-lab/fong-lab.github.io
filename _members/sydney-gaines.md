@@ -1,20 +1,18 @@
 ---
-name: Adam Kotar
-image: images/headshots/kotar.png
+name: Sydney Gaines
+image: images/headshots/gaines.png
 description: 
-role: current-technician
+role: current-
 aliases:
-  - A. Kotar
-  - A. D. Kotar
-  - A Kotar
-  - AD Kotar
-  - Adam Kotar
+  - S. Gaines
+  - S Gaines
+  - Sydney Gaines
 links:
-  email: akotar6@gatech.edu
-  linkedin: adam-kotar-3886421a1
+  email: sgaines8@gatech.edu
+  linkedin: sydney-gaines-b8785236a
 ---
 
-Adam Kotar is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Civil Engineering from the University of South Alabama where he learned the basics of engineering as well as technical writing, teamwork, and data management. He also recieved his MS in Biomedical Engineering from the University of Alabama at Birmingham where he studied triple negative breast cancer mechanotransduction.
+Sydney Gaines is a student researcher in Project ENGAGES at Georgia Tech, exploring the intersection of neuroscience and biotechnology. She is the co-founder and President of Drew Charter School’s 21Club and the founder of Soaring Minds, a mental health education club. Beyond school, she serves on the Youth Advisory Council of Silence the Shame, promoting mental health advocacy. Sydney has also developed machine learning models for pneumonia detection through the InspiritAI Scholars Program. She aspires to pursue a career in neurology with a focus on advancing healthcare equity in underserved communities.
 
-Last updated: 2024
+Last updated: 2025
 
