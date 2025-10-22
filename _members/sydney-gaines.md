@@ -2,7 +2,7 @@
 name: Sydney Gaines
 image: images/headshots/gaines.png
 description: 
-role: current-
+role: current-research intern
 aliases:
   - S. Gaines
   - S Gaines
