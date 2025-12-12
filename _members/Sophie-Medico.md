@@ -1,6 +1,6 @@
 ---
 name: Sophie Medico
-image: images/headshots/kotar.png
+image: images/headshots/medico.png
 description: 
 role: current-technician
 aliases:
@@ -14,7 +14,7 @@ links:
   linkedin: sophie-medico
 ---
 
-Adam Kotar is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Civil Engineering from the University of South Alabama where he learned the basics of engineering as well as technical writing, teamwork, and data management. He also recieved his MS in Biomedical Engineering from the University of Alabama at Birmingham where he studied triple negative breast cancer mechanotransduction.
+Sophie is a research technician in the department of biological sciences at Georgia Tech. She received her BS in Neuroscience from Baylor University where she learned the basics of neuroanatomy, animal research, and behavioral neuroscience. After graduating, Sophie joined the Najafi Lab at Georgia Tech as a research technician, studying predictive processing in mice.
 
-Last updated: 2024
+Last updated: 2025
 
