@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.celrep.2025.116566
+  title: Temporary retinal inactivation reverses effects of long-term monocular deprivation
+    in visual cortex by induction of burst mode firing in the thalamus
+  authors:
+  - Madison Echavarri-Leet
+  - Tushar Chauhan
+  - Teresa L.M. Cramer
+  - Ming-fai Fong
+  - Mark F. Bear
+  publisher: Cell Reports
+  date: '2025-11-01'
+  link: https://doi.org/hbbw8k
+  orcid: 0000-0002-2336-4531
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.97399
   title: Patch-walking, a coordinated multi-pipette patch clamp for efficiently finding
     synaptic connections
