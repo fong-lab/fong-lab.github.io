@@ -14,7 +14,7 @@ links:
   linkedin: sophie-medico
 ---
 
-Sophie is a research technician in the department of biological sciences at Georgia Tech. She received her BS in Neuroscience from Baylor University where she learned the basics of neuroanatomy, animal research, and behavioral neuroscience. After graduating, Sophie joined the Najafi Lab at Georgia Tech as a research technician, studying predictive processing in mice.
+Sophie is a research technician in the Department of Biological Sciences at Georgia Tech. She received her BS in Neuroscience from Baylor University where she learned the basics of neuroanatomy, animal research, and behavioral neuroscience. After graduating, Sophie joined the Najafi Lab at Georgia Tech as a research technician. In December 2025 she began working as a technician in the Fong Lab, studying visual cortical plasticity.
 
 Last updated: 2025
 
