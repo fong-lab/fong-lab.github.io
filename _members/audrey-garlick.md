@@ -1,6 +1,6 @@
 ---
 name: Audrey Garlick
-image: images/headshots/shamon-ayala.png
+image: images/headshots/garlick.png
 description: 
 role: current-undergrad
 aliases:
