@@ -2,7 +2,7 @@
 name: Adam Kotar
 image: images/headshots/kotar.png
 description: 
-role: current-technician
+role: alum-technician
 aliases:
   - A. Kotar
   - A. D. Kotar
