@@ -1,6 +1,6 @@
 ---
 name: Aanchal Acharya
-image: images/headshots/garlick.png
+image: images/headshots/acharya.png
 description: 
 role: current-undergrad
 aliases:
