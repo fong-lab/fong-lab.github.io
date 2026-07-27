@@ -1,5 +1,5 @@
 ---
-name: Danielle Dowe
+name: Jenna Jang
 image: images/headshots/dowe.png
 description:
 role: current-phd
