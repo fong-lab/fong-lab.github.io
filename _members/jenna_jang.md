@@ -1,6 +1,6 @@
 ---
 name: Jenna Jang
-image: images/headshots/dowe.png
+image: images/headshots/jang.png
 description:
 role: current-phd
 aliases:
